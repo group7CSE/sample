@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="title_name">TRACKER</string>
+    <string-array name="names">
+        <item>Select your designation</item>
+        <item>Student</item>
+        <item>Staff</item>
+    </string-array>
+</resources>

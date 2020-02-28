@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/activity_main"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+    tools:context=".AddAccessPoint">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/AP_block"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Block"
+        android:maxLines="1" />
+
+    <EditText
+        android:id="@+id/AP_position1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="AP_position1"
+        android:maxLines="1" />
+
+    <EditText
+        android:id="@+id/AP_position2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="AP_position2"
+        android:maxLines="1" />
+
+    <EditText
+        android:id="@+id/AP_position3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="AP_position3"
+        android:maxLines="1" />
+
+    <EditText
+        android:id="@+id/mac"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="AP MAC ID"
+        android:maxLines="1" />
+
+    <EditText
+        android:id="@+id/ssid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="SSID"
+        android:maxLines="1" />
+
+
+
+    <Button
+        android:id="@+id/btn_save"
+        style="?android:textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/colorPrimary"
+        android:text="save"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+</LinearLayout>
+</LinearLayout>

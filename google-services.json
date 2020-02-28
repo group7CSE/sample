@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "819702144918",
+    "firebase_url": "https://tracker-53e62.firebaseio.com",
+    "project_id": "tracker-53e62",
+    "storage_bucket": "tracker-53e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819702144918:android:d9bb594ca1063121a387b7",
+        "android_client_info": {
+          "package_name": "com.example.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819702144918-u8m6f1lbggqbjre1adb515f8bk15mhvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tracker",
+            "certificate_hash": "41ec6684b7437425958975df62748591a3a6025b"
+          }
+        },
+        {
+          "client_id": "819702144918-rft9pk9ijpah9lv3mhr2hh3qe0eq95fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tracker",
+            "certificate_hash": "142020165bf5868fc269d3631ab37adc6dd55160"
+          }
+        },
+        {
+          "client_id": "819702144918-mlsu5ovjakq8v6h73h0bricsfsttdt82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMyoMTYYalkqOBxModmo9r8BhgTWJLD70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819702144918-mlsu5ovjakq8v6h73h0bricsfsttdt82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
