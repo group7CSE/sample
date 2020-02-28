@@ -24,6 +24,7 @@ public class AddAccessPoint extends AppCompatActivity {
     private Button btnSave;
     private DatabaseReference mFirebaseDatabase;
     private FirebaseDatabase mFirebaseInstance;
+    private int Sample;
 
     private String userId;
 
